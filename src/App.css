@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', sans-serif, Monospace;
+}
+
+.price {
+    margin: 0.2rem;
+    font-size: 14px;
+    padding: 4px 8px;
+    opacity: 0.8;
+}
+
+.product{
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.product:hover{
+    opacity: 0.8;
+}
+
+.btn{
+    font-weight: 500;
+}
+
+.product-list{
+    overflow-y: auto;
+    max-height: 55rem;
+}
+
+hr{
+    border-top: dotted 3px;
+}

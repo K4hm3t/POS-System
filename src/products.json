@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "Mobile",
+    "brand": "Apple",
+    "name": "iPhone 12",
+    "price": 499,
+    "quantity": 30,
+    "image": "images/iphone12.png"
+  },
+  {
+    "id": 2,
+    "type": "Desktop",
+    "brand": "Dell",
+    "name": "XPS 15",
+    "price": 1499,
+    "quantity": 15,
+    "image": "images/xps15.png"
+  },
+  {
+    "id": 3,
+    "type": "Mobile",
+    "brand": "Samsung",
+    "name": "Galaxy S21",
+    "price": 799,
+    "quantity": 20,
+    "image": "images/galaxys21.png"
+  },
+  {
+    "id": 4,
+    "type": "Desktop",
+    "brand": "HP",
+    "name": "Envy 27",
+    "price": 1299,
+    "quantity": 10,
+    "image": "images/envy27.png"
+  },
+  {
+    "id": 5,
+    "type": "CPU",
+    "brand": "Intel",
+    "name": "Core i9-10900K",
+    "price": 499,
+    "quantity": 5,
+    "image": "images/corei9.png"
+  },
+  {
+    "id": 6,
+    "type": "GPU",
+    "brand": "Nvidia",
+    "name": "GeForce RTX 3080",
+    "price": 699,
+    "quantity": 8,
+    "image": "images/rtx3080.png"
+  },
+  {
+    "id": 7,
+    "type": "Laptop",
+    "brand": "Lenovo",
+    "name": "ThinkPad X1 Carbon",
+    "price": 1699,
+    "quantity": 12,
+    "image": "images/thinkpad.png"
+  },
+  {
+    "id": 8,
+    "type": "Mobile",
+    "brand": "Google",
+    "name": "Pixel 6",
+    "price": 799,
+    "quantity": 18,
+    "image": "images/pixel6.png"
+  },
+  {
+    "id": 9,
+    "type": "Desktop",
+    "brand": "Microsoft",
+    "name": "Surface Studio 2",
+    "price": 3499,
+    "quantity": 8,
+    "image": "images/surfacestudio2.png"
+  },
+  {
+    "id": 10,
+    "type": "GPU",
+    "brand": "AMD",
+    "name": "Radeon RX 6900 XT",
+    "price": 999,
+    "quantity": 10,
+    "image": "images/rx6900xt.png"
+  },
+  {
+    "id": 11,
+    "type": "CPU",
+    "brand": "AMD",
+    "name": "Ryzen 9 5900X",
+    "price": 549,
+    "quantity": 10,
+    "image": "images/ryzen5900x.png"
+  },
+  {
+    "id": 12,
+    "type": "CPU",
+    "brand": "Intel",
+    "name": "Core i7-11700K",
+    "price": 399,
+    "quantity": 7,
+    "image": "images/corei7.png"
+  }  
+]
